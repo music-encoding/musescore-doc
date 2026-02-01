@@ -19,6 +19,7 @@ Relevant tests:
 {% include test file="measure-01" %}
 {% include test file="measure-02" %}
 
-Known limitations: 
-* The MuseScore barline type `Reverse final` does not exist in MEI, it is exported as double `dbl` barline.
+Known limitations:
+
+* The MuseScore bar line type `Reverse final` does not exist in MEI, it is exported as double `dbl` barline.
 * Measure numbers with text (e.g., `3a`) are represented by text elements in MuseScore and are currently not exported.

@@ -22,6 +22,7 @@ Relevant tests:
 {% include test file="cross-staff-01" %}
 
 Known limitations:
+
 * Enclosing accidentals are not supported (not available in MEI-Basic).
 * Triple flats / sharp are not preserved in the import.
 * Cross-staff for chords with only some one or some of the notes on the staff above or the staff below is not supported since this can only be achieved with a workaround in MuseScore .

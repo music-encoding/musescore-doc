@@ -25,6 +25,7 @@ Relevant tests:
 {% include test file="lyric-03" %}
 
 Known limitations:
+
 * Any SMuFL character within a lyric is considered to be an elision character
 * Elision character is always SMuFL character `lyricsElision` (U+E551)
 
@@ -57,6 +58,12 @@ Relevant tests:
 
 Relevant tests:
 {% include test file="pedal-01" %}
+
+### Rehearsal marks
+
+Relevant tests:
+
+% include test file="reh-01" %}
 
 ### Bow tremolo
 
