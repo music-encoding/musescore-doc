@@ -7,13 +7,13 @@ parent: "Features"
 
 ## Measure numbering
 
-Measure number in MuseScore are integers automatically incremented. They are encoded in `measure@n`. When a measure is excluded from the measure count in MuseScore, no `@n` is provided.
+Measure numbers in MuseScore are integers automatically incremented. They are encoded in `measure@n`. When a measure is excluded from the measure count in MuseScore, no `@n` is provided.
 
-Irregular (e.g., a pickup measure) will be have a `measure@metcon="false"`.
+Irregular (e.g., a pickup measure) will have a `measure@metcon="false"`.
 
 MuseScore also has the option of adding a number to the measure count. The value is taken into account when writing and reading `measure@n`.
 
-For end barlines with a repetition, the number of sounding repetitions given in MuseScore is encoded as `@type="mscore-repeat-n` where `n` is the value of the repeat parameter in MuseScore.
+For end bar lines with a repetition, the number of sounding repetitions given in MuseScore is encoded as `@type="mscore-repeat-n` where `n` is the value of the repeat parameter in MuseScore.
 
 Relevant tests:
 {% include test file="measure-01" %}
