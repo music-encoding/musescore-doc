@@ -9,7 +9,7 @@ The website is accessible at <https://music-encoding.org/musescore-doc>.
 The example images in `./tests` have been generated with [Verovio](https://verovio.org) with the command:
 
 ```shell
-verovio --adjust-page-height -o test-file.mei.svg test-file.mei
+verovio --adjust-page-height --header "none" -o test-file.mei.svg test-file.mei
 ```
 
 ## License
