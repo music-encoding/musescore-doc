@@ -75,6 +75,11 @@ Relevant tests:
 Relevant tests:
 {% include test file="measure-repeat-01" %}
 
+### Glissandos
+
+Relevant tests:
+{% include test file="gliss-01" %}
+
 ### Colors
 
 Relevant tests:
