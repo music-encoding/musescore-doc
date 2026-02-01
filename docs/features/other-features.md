@@ -38,6 +38,10 @@ Relevant tests:
 Relevant tests:
 {% include test file="artic-01" %}
 
+Known limitations:
+
+* Chord lines (i.e., `doit`, `scoop`, `plop`, etc.) are not supported
+
 ### Ornaments such as mordents and turns
 
 Relevant tests:
