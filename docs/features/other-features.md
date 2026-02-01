@@ -28,7 +28,7 @@ Known limitations:
 * Any SMuFL character within a lyric is considered to be an elision character
 * Elision character is always SMuFL character `lyricsElision` (U+E551)
 
-### Figure bass
+### Figured bass
 
 Relevant tests:
 {% include test file="fig-bass-01" %}
