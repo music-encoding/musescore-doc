@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="2100px" height="460px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="dzcyko5">
-   <desc>Engraved by Verovio 5.1.0</desc>
+<svg width="2100px" height="460px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="e11g1eus">
+   <desc>Engraved by Verovio 6.0.1</desc>
    <defs>
-      <symbol id="E4E3-dzcyko5" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M0 -115v105c0 9 1 10 10 10h280c9 0 10 -1 10 -10v-105c0 -9 -1 -10 -10 -10h-280c-9 0 -10 1 -10 10z" />
-      </symbol>
-      <symbol id="E084-dzcyko5" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M20 -78c84 97 114 180 134 329h170c-13 -32 -82 -132 -99 -151l-84 -97c-33 -36 -59 -63 -80 -81h162v102l127 123v-225h57v-39h-57v-34c0 -43 19 -65 57 -65v-34h-244v36c48 0 60 26 60 70v27h-203v39z" />
-      </symbol>
-      <symbol id="E050-dzcyko5" viewBox="0 0 1000 1000" overflow="inherit">
+      <g id="E050-e11g1eus">
          <path transform="scale(1,-1)" d="M441 -245c-23 -4 -48 -6 -76 -6c-59 0 -102 7 -130 20c-88 42 -150 93 -187 154c-26 44 -43 103 -48 176c0 6 -1 13 -1 19c0 54 15 111 45 170c29 57 65 106 110 148s96 85 153 127c-3 16 -8 46 -13 92c-4 43 -5 73 -5 89c0 117 16 172 69 257c34 54 64 82 89 82 c21 0 43 -30 69 -92s39 -115 41 -159v-15c0 -109 -21 -162 -67 -241c-13 -20 -63 -90 -98 -118c-13 -9 -25 -19 -37 -29l31 -181c8 1 18 2 28 2c58 0 102 -12 133 -35c59 -43 92 -104 98 -184c1 -7 1 -15 1 -22c0 -123 -87 -209 -181 -248c8 -57 17 -110 25 -162 c5 -31 6 -58 6 -80c0 -30 -5 -53 -14 -70c-35 -64 -88 -99 -158 -103c-5 0 -11 -1 -16 -1c-37 0 -72 10 -108 27c-50 24 -77 59 -80 105v11c0 29 7 55 20 76c18 28 45 42 79 44h6c49 0 93 -42 97 -87v-9c0 -51 -34 -86 -105 -106c17 -24 51 -36 102 -36c62 0 116 43 140 85 c9 16 13 41 13 74c0 20 -1 42 -5 67c-8 53 -18 106 -26 159zM461 939c-95 0 -135 -175 -135 -286c0 -24 2 -48 5 -71c50 39 92 82 127 128c40 53 60 100 60 140v8c-4 53 -22 81 -55 81h-2zM406 119l54 -326c73 25 110 78 110 161c0 7 0 15 -1 23c-7 95 -57 142 -151 142h-12 zM382 117c-72 -2 -128 -47 -128 -120v-7c2 -46 43 -99 75 -115c-3 -2 -7 -5 -10 -10c-70 33 -116 88 -123 172v11c0 68 44 126 88 159c23 17 49 29 78 36l-29 170c-21 -13 -52 -37 -92 -73c-50 -44 -86 -84 -109 -119c-45 -69 -67 -130 -67 -182v-13c5 -68 35 -127 93 -176 s125 -73 203 -73c25 0 50 3 75 9c-19 111 -36 221 -54 331z" />
-      </symbol>
-      <symbol id="E062-dzcyko5" viewBox="0 0 1000 1000" overflow="inherit">
+      </g>
+      <g id="E084-e11g1eus">
+         <path transform="scale(1,-1)" d="M20 -78c84 97 114 180 134 329h170c-13 -32 -82 -132 -99 -151l-84 -97c-33 -36 -59 -63 -80 -81h162v102l127 123v-225h57v-39h-57v-34c0 -43 19 -65 57 -65v-34h-244v36c48 0 60 26 60 70v27h-203v39z" />
+      </g>
+      <g id="E4E3-e11g1eus">
+         <path transform="scale(1,-1)" d="M0 -115v105c0 9 1 10 10 10h280c9 0 10 -1 10 -10v-105c0 -9 -1 -10 -10 -10h-280c-9 0 -10 1 -10 10z" />
+      </g>
+      <g id="E062-e11g1eus">
          <path transform="scale(1,-1)" d="M582 -120c0 32 26 58 58 58s58 -26 58 -58s-26 -58 -58 -58s-58 26 -58 58zM582 120c0 32 26 58 58 58s58 -26 58 -58s-26 -58 -58 -58s-58 26 -58 58zM158 96c51 0 73 -14 88 -49l16 -39c0 -17 -2 -30 -7 -40c-3 -11 -10 -21 -19 -31c-17 -18 -49 -43 -84 -43 c-55 0 -77 13 -112 44c-24 21 -35 55 -35 100c0 46 14 81 32 112c30 52 71 79 137 93l36 6l26 2c154 0 235 -68 274 -182c11 -32 18 -68 18 -107c0 -103 -26 -182 -68 -250c-89 -145 -234 -230 -412 -288l-30 -5c-9 0 -14 3 -14 8c3 10 5 11 10 16c35 15 70 30 96 44l78 43 c96 57 162 136 197 258c9 33 17 60 22 100c3 22 5 35 6 39c-7 69 -16 115 -23 140s-4 22 -16 40c-8 12 -19 23 -31 34c-24 21 -62 44 -118 44c-48 0 -84 -8 -113 -28c-28 -19 -42 -44 -42 -73v-16c2 -5 3 -9 4 -11c24 22 52 39 84 39z" />
-      </symbol>
+      </g>
    </defs>
-   <style type="text/css">#dzcyko5 g.page-margin {font-family:Times,serif;} #dzcyko5 g.ending, #dzcyko5 g.fing, #dzcyko5 g.reh, #dzcyko5 g.tempo {font-weight:bold;} #dzcyko5 g.dir, #dzcyko5 g.dynam, #dzcyko5 g.mNum {font-style:italic;} #dzcyko5 g.label {font-weight:normal;} #dzcyko5 path {stroke:currentColor}</style>
-   <svg class="definition-scale" color="black" viewBox="0 0 21000 4600">
+   <style type="text/css">#e11g1eus g.ending, #e11g1eus g.fing, #e11g1eus g.reh, #e11g1eus g.tempo {font-weight:bold;}#e11g1eus g.dir, #e11g1eus g.dynam, #e11g1eus g.mNum {font-style:italic;}#e11g1eus g.label {font-weight:normal;}#e11g1eus ellipse, #e11g1eus path, #e11g1eus polygon, #e11g1eus polyline, #e11g1eus rect {stroke:currentColor}</style>
+   <svg class="definition-scale" color="black" font-family="Times, serif" viewBox="0 0 21000 4600">
       <g class="page-margin" transform="translate(500, 500)">
-         <g id="m151u3ge" class="mdiv pageMilestone" />
-         <g id="s16ioh93" class="score pageMilestone" />
-         <g id="sgn40td" class="system">
+         <g id="f17uh1mm" class="mdiv pageMilestone" />
+         <g id="g17s9d4z" class="score pageMilestone" />
+         <g id="tehnqlm" class="system">
             <path d="M1393 540 L1393 3060" stroke-width="27" />
-            <g id="g5sbht0" class="grpSym">
-               <path d="M1308,3042 C948,2502 1398,1980 1128,1800 C1461,1980 1011,2502 1308,3042" stroke-linecap="round" stroke-linejoin="round" stroke-width="18" />
-               <path d="M1308,558 C1011,1098 1461,1620 1128,1800 C1398,1620 948,1098 1308,558" stroke-linecap="round" stroke-linejoin="round" stroke-width="18" />
+            <g id="lzdbwhk" class="grpSym">
+               <path d="M1308,3042 C948,2502 1398,1980 1128,1800 C1461,1980 1011,2502 1308,3042" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M1308,558 C1011,1098 1461,1620 1128,1800 C1398,1620 948,1098 1308,558" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
             </g>
-            <g id="lhvjoqz" class="label">
+            <g id="m1vmiq5u" class="label">
                <text x="975" y="1890" text-anchor="end" font-size="0px">
-                  <tspan id="t1s9lm8u" class="text">
+                  <tspan id="notuihs" class="text">
                      <tspan font-size="405px">Harp</tspan>
                   </tspan>
                </text>
@@ -41,17 +41,17 @@
                   <path d="M1380 900 L4239 900" stroke-width="13" />
                   <path d="M1380 1080 L4239 1080" stroke-width="13" />
                   <path d="M1380 1260 L4239 1260" stroke-width="13" />
-                  <g id="c1v63eeo" class="clef">
-                     <use xlink:href="#E050-dzcyko5" x="1497" y="1080" height="720px" width="720px" />
+                  <g id="lne9oqt" class="clef">
+                     <use xlink:href="#E050-e11g1eus" transform="translate(1497, 1080) scale(0.72, 0.72)" />
                   </g>
-                  <g id="k4zcb4v" class="keySig" />
-                  <g id="mij7cfj" class="meterSig">
-                     <use xlink:href="#E084-dzcyko5" x="2164" y="720" height="720px" width="720px" />
-                     <use xlink:href="#E084-dzcyko5" x="2164" y="1080" height="720px" width="720px" />
+                  <g id="mbbs19e" class="keySig" />
+                  <g id="n2jwet7" class="meterSig">
+                     <use xlink:href="#E084-e11g1eus" transform="translate(2164, 720) scale(0.72, 0.72)" />
+                     <use xlink:href="#E084-e11g1eus" transform="translate(2164, 1080) scale(0.72, 0.72)" />
                   </g>
                   <g id="m1s1l1" class="layer">
                      <g id="mmvq81" class="mRest">
-                        <use xlink:href="#E4E3-dzcyko5" x="3271" y="720" height="720px" width="720px" />
+                        <use xlink:href="#E4E3-e11g1eus" transform="translate(3271, 720) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
@@ -61,21 +61,21 @@
                   <path d="M1380 2700 L4239 2700" stroke-width="13" />
                   <path d="M1380 2880 L4239 2880" stroke-width="13" />
                   <path d="M1380 3060 L4239 3060" stroke-width="13" />
-                  <g id="chmt4fq" class="clef">
-                     <use xlink:href="#E062-dzcyko5" x="1497" y="2520" height="720px" width="720px" />
+                  <g id="o1jzp3gy" class="clef">
+                     <use xlink:href="#E062-e11g1eus" transform="translate(1497, 2520) scale(0.72, 0.72)" />
                   </g>
-                  <g id="k130phm6" class="keySig" />
-                  <g id="m4t0ge6" class="meterSig">
-                     <use xlink:href="#E084-dzcyko5" x="2164" y="2520" height="720px" width="720px" />
-                     <use xlink:href="#E084-dzcyko5" x="2164" y="2880" height="720px" width="720px" />
+                  <g id="prh5llj" class="keySig" />
+                  <g id="q1cf1n61" class="meterSig">
+                     <use xlink:href="#E084-e11g1eus" transform="translate(2164, 2520) scale(0.72, 0.72)" />
+                     <use xlink:href="#E084-e11g1eus" transform="translate(2164, 2880) scale(0.72, 0.72)" />
                   </g>
                   <g id="m1s2l1" class="layer">
                      <g id="m1ou7um" class="mRest">
-                        <use xlink:href="#E4E3-dzcyko5" x="3271" y="2520" height="720px" width="720px" />
+                        <use xlink:href="#E4E3-e11g1eus" transform="translate(3271, 2520) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
-               <g id="b1t0236i" class="barLine">
+               <g id="a1dl4e68" class="barLine">
                   <path d="M4226 540 L4226 1260" stroke-width="27" />
                   <path d="M4226 2340 L4226 3060" stroke-width="27" />
                   <path d="M4226 1260 L4226 2340" stroke-width="27" />
@@ -90,7 +90,7 @@
                   <path d="M4239 1260 L5932 1260" stroke-width="13" />
                   <g id="m2s1l1" class="layer">
                      <g id="mffuo9o" class="mRest">
-                        <use xlink:href="#E4E3-dzcyko5" x="4964" y="720" height="720px" width="720px" />
+                        <use xlink:href="#E4E3-e11g1eus" transform="translate(4964, 720) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
@@ -102,11 +102,11 @@
                   <path d="M4239 3060 L5932 3060" stroke-width="13" />
                   <g id="m2s2l1" class="layer">
                      <g id="m179uq1b" class="mRest">
-                        <use xlink:href="#E4E3-dzcyko5" x="4964" y="2520" height="720px" width="720px" />
+                        <use xlink:href="#E4E3-e11g1eus" transform="translate(4964, 2520) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
-               <g id="bursgpw" class="barLine">
+               <g id="p1uwlhb2" class="barLine">
                   <path d="M5919 540 L5919 1260" stroke-width="27" />
                   <path d="M5919 2340 L5919 3060" stroke-width="27" />
                   <path d="M5919 1260 L5919 2340" stroke-width="27" />
@@ -121,7 +121,7 @@
                   <path d="M5932 1260 L7625 1260" stroke-width="13" />
                   <g id="m3s1l1" class="layer">
                      <g id="m7nu615" class="mRest">
-                        <use xlink:href="#E4E3-dzcyko5" x="6657" y="720" height="720px" width="720px" />
+                        <use xlink:href="#E4E3-e11g1eus" transform="translate(6657, 720) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
@@ -133,11 +133,11 @@
                   <path d="M5932 3060 L7625 3060" stroke-width="13" />
                   <g id="m3s2l1" class="layer">
                      <g id="mdvqdwr" class="mRest">
-                        <use xlink:href="#E4E3-dzcyko5" x="6657" y="2520" height="720px" width="720px" />
+                        <use xlink:href="#E4E3-e11g1eus" transform="translate(6657, 2520) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
-               <g id="bd9raoe" class="barLine">
+               <g id="e1gnu4j3" class="barLine">
                   <path d="M7612 540 L7612 1260" stroke-width="27" />
                   <path d="M7612 2340 L7612 3060" stroke-width="27" />
                   <path d="M7612 1260 L7612 2340" stroke-width="27" />
@@ -152,7 +152,7 @@
                   <path d="M7625 1260 L9318 1260" stroke-width="13" />
                   <g id="m4s1l1" class="layer">
                      <g id="m6qmo9s" class="mRest">
-                        <use xlink:href="#E4E3-dzcyko5" x="8350" y="720" height="720px" width="720px" />
+                        <use xlink:href="#E4E3-e11g1eus" transform="translate(8350, 720) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
@@ -164,20 +164,20 @@
                   <path d="M7625 3060 L9318 3060" stroke-width="13" />
                   <g id="m4s2l1" class="layer">
                      <g id="m46drti" class="mRest">
-                        <use xlink:href="#E4E3-dzcyko5" x="8350" y="2520" height="720px" width="720px" />
+                        <use xlink:href="#E4E3-e11g1eus" transform="translate(8350, 2520) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
-               <g id="buv4fod" class="barLine">
+               <g id="tgzps2z" class="barLine">
                   <path d="M9305 540 L9305 1260" stroke-width="27" />
                   <path d="M9305 2340 L9305 3060" stroke-width="27" />
                   <path d="M9305 1260 L9305 2340" stroke-width="27" />
                </g>
             </g>
-            <g id="s1ke2dlt" class="systemMilestoneEnd s1" />
+            <g id="h1tiv7ok" class="systemMilestoneEnd s1" />
          </g>
-         <g id="p4kx8a1" class="pageMilestoneEnd s16ioh93" />
-         <g id="p1wsuhj5" class="pageMilestoneEnd m151u3ge" />
+         <g id="i5eoe1l" class="pageMilestoneEnd g17s9d4z" />
+         <g id="j1rd5gih" class="pageMilestoneEnd f17uh1mm" />
       </g>
    </svg>
 </svg>

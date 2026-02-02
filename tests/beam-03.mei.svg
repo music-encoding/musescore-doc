@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="2100px" height="307px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="d1p96x6k">
-   <desc>Engraved by Verovio 5.1.0</desc>
+<svg width="2100px" height="307px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="c14ky4li">
+   <desc>Engraved by Verovio 6.0.1</desc>
    <defs>
-      <symbol id="E082-d1p96x6k" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M124 -185c-18 0 -55 -14 -65 -65h-36l-3 30c0 25 6 45 18 63c11 19 22 30 39 43l121 82l37 29c15 11 27 29 38 54c12 24 18 47 18 70c0 40 -19 88 -94 88c-25 0 -32 0 -50 -8c-14 -5 -23 -12 -26 -22c3 -9 7 -15 10 -18l24 -17c12 -7 17 -11 27 -21c5 -7 7 -16 7 -27 c0 -12 0 -57 -79 -74c-30 0 -76 26 -76 94c0 66 81 135 197 135c72 0 181 -32 181 -150c0 -53 -32 -95 -113 -133l-91 -41c-26 -11 -45 -23 -57 -37l49 7c84 0 115 -41 148 -41c20 0 33 20 39 61h35c0 -152 -68 -168 -114 -168c-17 0 -65 0 -79 7h10l-28 17 c-49 37 -69 40 -87 42z" />
-      </symbol>
-      <symbol id="E084-d1p96x6k" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M20 -78c84 97 114 180 134 329h170c-13 -32 -82 -132 -99 -151l-84 -97c-33 -36 -59 -63 -80 -81h162v102l127 123v-225h57v-39h-57v-34c0 -43 19 -65 57 -65v-34h-244v36c48 0 60 26 60 70v27h-203v39z" />
-      </symbol>
-      <symbol id="E0A4-d1p96x6k" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M0 -39c0 68 73 172 200 172c66 0 114 -37 114 -95c0 -84 -106 -171 -218 -171c-64 0 -96 30 -96 94z" />
-      </symbol>
-      <symbol id="E050-d1p96x6k" viewBox="0 0 1000 1000" overflow="inherit">
+      <g id="E050-c14ky4li">
          <path transform="scale(1,-1)" d="M441 -245c-23 -4 -48 -6 -76 -6c-59 0 -102 7 -130 20c-88 42 -150 93 -187 154c-26 44 -43 103 -48 176c0 6 -1 13 -1 19c0 54 15 111 45 170c29 57 65 106 110 148s96 85 153 127c-3 16 -8 46 -13 92c-4 43 -5 73 -5 89c0 117 16 172 69 257c34 54 64 82 89 82 c21 0 43 -30 69 -92s39 -115 41 -159v-15c0 -109 -21 -162 -67 -241c-13 -20 -63 -90 -98 -118c-13 -9 -25 -19 -37 -29l31 -181c8 1 18 2 28 2c58 0 102 -12 133 -35c59 -43 92 -104 98 -184c1 -7 1 -15 1 -22c0 -123 -87 -209 -181 -248c8 -57 17 -110 25 -162 c5 -31 6 -58 6 -80c0 -30 -5 -53 -14 -70c-35 -64 -88 -99 -158 -103c-5 0 -11 -1 -16 -1c-37 0 -72 10 -108 27c-50 24 -77 59 -80 105v11c0 29 7 55 20 76c18 28 45 42 79 44h6c49 0 93 -42 97 -87v-9c0 -51 -34 -86 -105 -106c17 -24 51 -36 102 -36c62 0 116 43 140 85 c9 16 13 41 13 74c0 20 -1 42 -5 67c-8 53 -18 106 -26 159zM461 939c-95 0 -135 -175 -135 -286c0 -24 2 -48 5 -71c50 39 92 82 127 128c40 53 60 100 60 140v8c-4 53 -22 81 -55 81h-2zM406 119l54 -326c73 25 110 78 110 161c0 7 0 15 -1 23c-7 95 -57 142 -151 142h-12 zM382 117c-72 -2 -128 -47 -128 -120v-7c2 -46 43 -99 75 -115c-3 -2 -7 -5 -10 -10c-70 33 -116 88 -123 172v11c0 68 44 126 88 159c23 17 49 29 78 36l-29 170c-21 -13 -52 -37 -92 -73c-50 -44 -86 -84 -109 -119c-45 -69 -67 -130 -67 -182v-13c5 -68 35 -127 93 -176 s125 -73 203 -73c25 0 50 3 75 9c-19 111 -36 221 -54 331z" />
-      </symbol>
-      <symbol id="E262-d1p96x6k" viewBox="0 0 1000 1000" overflow="inherit">
+      </g>
+      <g id="E262-c14ky4li">
          <path transform="scale(1,-1)" d="M136 186v169h17v-164l44 14v-91l-44 -14v-165l44 12v-91l-44 -13v-155h-17v150l-76 -22v-155h-17v149l-43 -13v90l43 14v167l-43 -14v92l43 13v169h17v-163zM60 73v-167l76 22v168z" />
-      </symbol>
-      <symbol id="E4E6-d1p96x6k" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M0 123c7 34 33 56 69 60c29 -3 43 -9 53 -29c4 -8 7 -15 10 -22c0 -21 -1 -25 -11 -35c-5 -8 -18 -14 -40 -20l12 -3l15 -1c44 0 97 26 122 56c10 11 18 26 24 42c7 1 15 2 22 3l-140 -424h-36l111 330c-10 -6 -27 -12 -53 -16l-52 -8h-10l-20 1c-1 0 -8 3 -21 6 c-37 9 -55 28 -55 60z" />
-      </symbol>
-      <symbol id="E4E9-d1p96x6k" viewBox="0 0 1000 1000" overflow="inherit">
+      </g>
+      <g id="E082-c14ky4li">
+         <path transform="scale(1,-1)" d="M124 -185c-18 0 -55 -14 -65 -65h-36l-3 30c0 25 6 45 18 63c11 19 22 30 39 43l121 82l37 29c15 11 27 29 38 54c12 24 18 47 18 70c0 40 -19 88 -94 88c-25 0 -32 0 -50 -8c-14 -5 -23 -12 -26 -22c3 -9 7 -15 10 -18l24 -17c12 -7 17 -11 27 -21c5 -7 7 -16 7 -27 c0 -12 0 -57 -79 -74c-30 0 -76 26 -76 94c0 66 81 135 197 135c72 0 181 -32 181 -150c0 -53 -32 -95 -113 -133l-91 -41c-26 -11 -45 -23 -57 -37l49 7c84 0 115 -41 148 -41c20 0 33 20 39 61h35c0 -152 -68 -168 -114 -168c-17 0 -65 0 -79 7h10l-28 17 c-49 37 -69 40 -87 42z" />
+      </g>
+      <g id="E084-c14ky4li">
+         <path transform="scale(1,-1)" d="M20 -78c84 97 114 180 134 329h170c-13 -32 -82 -132 -99 -151l-84 -97c-33 -36 -59 -63 -80 -81h162v102l127 123v-225h57v-39h-57v-34c0 -43 19 -65 57 -65v-34h-244v36c48 0 60 26 60 70v27h-203v39z" />
+      </g>
+      <g id="E0A4-c14ky4li">
+         <path transform="scale(1,-1)" d="M0 -39c0 68 73 172 200 172c66 0 114 -37 114 -95c0 -84 -106 -171 -218 -171c-64 0 -96 30 -96 94z" />
+      </g>
+      <g id="E4E9-c14ky4li">
          <path transform="scale(1,-1)" d="M270 413c40 0 56 -15 65 -47c-1 -39 -13 -49 -50 -57c3 -1 5 -2 7 -2s4 -1 6 -2l14 -1c28 1 57 10 85 26s49 41 63 73h6l7 4l7 -1c-78 -235 -154 -472 -231 -708c-10 -32 -21 -63 -32 -95c-36 -107 -71 -214 -107 -321h-34c36 108 70 218 108 324 c-27 -14 -47 -19 -84 -19c-20 0 -34 2 -43 7c-30 6 -55 24 -55 58c0 37 29 57 68 61c41 -8 51 -13 64 -49c0 -39 -16 -45 -51 -56c8 -3 16 -5 23 -5c30 0 60 15 90 46l63 189c-26 -14 -43 -19 -78 -19c-21 0 -34 5 -49 9c-34 9 -53 27 -53 58c0 35 29 55 68 60 c41 -8 51 -14 63 -51c0 -15 -1 -25 -5 -30c-6 -9 -22 -17 -45 -25c8 -3 16 -3 25 -3c39 2 65 22 89 46l61 187c-28 -12 -56 -18 -84 -18c-18 0 -32 3 -41 7c-37 7 -56 27 -56 61c10 35 33 54 69 58c45 -5 51 -12 64 -50c0 -37 -15 -44 -48 -55c8 -2 15 -3 23 -3 c41 0 67 25 91 50l62 191c-19 -10 -81 -24 -112 -24c-18 0 -34 1 -45 8c-36 8 -54 28 -54 60c0 33 33 58 66 58z" />
-      </symbol>
+      </g>
+      <g id="E4E6-c14ky4li">
+         <path transform="scale(1,-1)" d="M0 123c7 34 33 56 69 60c29 -3 43 -9 53 -29c4 -8 7 -15 10 -22c0 -21 -1 -25 -11 -35c-5 -8 -18 -14 -40 -20l12 -3l15 -1c44 0 97 26 122 56c10 11 18 26 24 42c7 1 15 2 22 3l-140 -424h-36l111 330c-10 -6 -27 -12 -53 -16l-52 -8h-10l-20 1c-1 0 -8 3 -21 6 c-37 9 -55 28 -55 60z" />
+      </g>
    </defs>
-   <style type="text/css">#d1p96x6k g.page-margin {font-family:Times,serif;} #d1p96x6k g.ending, #d1p96x6k g.fing, #d1p96x6k g.reh, #d1p96x6k g.tempo {font-weight:bold;} #d1p96x6k g.dir, #d1p96x6k g.dynam, #d1p96x6k g.mNum {font-style:italic;} #d1p96x6k g.label {font-weight:normal;} #d1p96x6k path {stroke:currentColor}</style>
-   <svg class="definition-scale" color="black" viewBox="0 0 21000 3070">
+   <style type="text/css">#c14ky4li g.ending, #c14ky4li g.fing, #c14ky4li g.reh, #c14ky4li g.tempo {font-weight:bold;}#c14ky4li g.dir, #c14ky4li g.dynam, #c14ky4li g.mNum {font-style:italic;}#c14ky4li g.label {font-weight:normal;}#c14ky4li ellipse, #c14ky4li path, #c14ky4li polygon, #c14ky4li polyline, #c14ky4li rect {stroke:currentColor}</style>
+   <svg class="definition-scale" color="black" font-family="Times, serif" viewBox="0 0 21000 3070">
       <g class="page-margin" transform="translate(500, 500)">
-         <g id="mjc5k75" class="mdiv pageMilestone" />
-         <g id="s9p1phi" class="score pageMilestone" />
-         <g id="slfue0g" class="system">
-            <g id="l1hy5p8t" class="label">
+         <g id="d1031sj5" class="mdiv pageMilestone" />
+         <g id="e1u9vmsw" class="score pageMilestone" />
+         <g id="c15w5uc7" class="system">
+            <g id="s1jpgfag" class="label">
                <text x="2388" y="1260" text-anchor="end" font-size="0px">
-                  <tspan id="trk98c2" class="text">
+                  <tspan id="t1ilpx68" class="text">
                      <tspan font-size="405px">Clarinet in B♭</tspan>
                   </tspan>
                </text>
@@ -45,116 +45,116 @@
                   <path d="M2568 1170 L15771 1170" stroke-width="13" />
                   <path d="M2568 1350 L15771 1350" stroke-width="13" />
                   <path d="M2568 1530 L15771 1530" stroke-width="13" />
-                  <g id="c5f5lg" class="clef">
-                     <use xlink:href="#E050-d1p96x6k" x="2658" y="1350" height="720px" width="720px" />
+                  <g id="e1aq9yfo" class="clef">
+                     <use xlink:href="#E050-c14ky4li" transform="translate(2658, 1350) scale(0.72, 0.72)" />
                   </g>
-                  <g id="k3gvm8h" class="keySig">
-                     <g id="kjrlhgo" class="keyAccid">
-                        <use xlink:href="#E262-d1p96x6k" x="3303" y="810" height="720px" width="720px" />
+                  <g id="f94jsmk" class="keySig">
+                     <g id="gd9ef7d" class="keyAccid">
+                        <use xlink:href="#E262-c14ky4li" transform="translate(3303, 810) scale(0.72, 0.72)" />
                      </g>
-                     <g id="k133ssnx" class="keyAccid">
-                        <use xlink:href="#E262-d1p96x6k" x="3481" y="1080" height="720px" width="720px" />
+                     <g id="h15bdrvh" class="keyAccid">
+                        <use xlink:href="#E262-c14ky4li" transform="translate(3481, 1080) scale(0.72, 0.72)" />
                      </g>
                   </g>
-                  <g id="mexrsti" class="meterSig">
-                     <use xlink:href="#E082-d1p96x6k" x="3788" y="990" height="720px" width="720px" />
-                     <use xlink:href="#E084-d1p96x6k" x="3793" y="1350" height="720px" width="720px" />
+                  <g id="i3dp07n" class="meterSig">
+                     <use xlink:href="#E082-c14ky4li" transform="translate(3788, 990) scale(0.72, 0.72)" />
+                     <use xlink:href="#E084-c14ky4li" transform="translate(3793, 1350) scale(0.72, 0.72)" />
                   </g>
                   <g id="m1s1l1" class="layer">
-                     <g id="bt44ir5" class="beam">
-                        <polygon stroke-opacity="1" fill-opacity="1" points="4569,0 9163,0 9163,90 4569,90" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="4569,150 4795,150 4795,240 4569,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6310,150 6626,150 6626,240 6310,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6626,150 6942,150 6942,240 6626,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6942,150 7258,150 7258,240 6942,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7258,150 7574,150 7574,240 7258,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7574,150 7890,150 7890,240 7574,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7890,150 8206,150 8206,240 7890,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8206,150 8522,150 8522,240 8206,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8522,150 8838,150 8838,240 8522,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8937,150 9163,150 9163,240 8937,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="4569,300 4795,300 4795,390 4569,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6310,300 6536,300 6536,390 6310,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6626,300 6942,300 6942,390 6626,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6942,300 7258,300 7258,390 6942,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7258,300 7574,300 7574,390 7258,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7574,300 7890,300 7890,390 7574,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8206,300 8522,300 8522,390 8206,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8522,300 8838,300 8838,390 8522,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8937,300 9163,300 9163,390 8937,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="4569,450 4795,450 4795,540 4569,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6310,450 6536,450 6536,540 6310,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6626,450 6942,450 6942,540 6626,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6942,450 7258,450 7258,540 6942,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7258,450 7574,450 7574,540 7258,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7574,450 7890,450 7890,540 7574,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8206,450 8522,450 8522,540 8206,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8522,450 8838,450 8838,540 8522,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8937,450 9163,450 9163,540 8937,540" />
+                     <g id="t1t78t4" class="beam">
+                        <polygon points="4569,0 9163,0 9163,90 4569,90" />
+                        <polygon points="4569,150 4795,150 4795,240 4569,240" />
+                        <polygon points="6310,150 6626,150 6626,240 6310,240" />
+                        <polygon points="6626,150 6942,150 6942,240 6626,240" />
+                        <polygon points="6942,150 7258,150 7258,240 6942,240" />
+                        <polygon points="7258,150 7574,150 7574,240 7258,240" />
+                        <polygon points="7574,150 7890,150 7890,240 7574,240" />
+                        <polygon points="7890,150 8206,150 8206,240 7890,240" />
+                        <polygon points="8206,150 8522,150 8522,240 8206,240" />
+                        <polygon points="8522,150 8838,150 8838,240 8522,240" />
+                        <polygon points="8937,150 9163,150 9163,240 8937,240" />
+                        <polygon points="4569,300 4795,300 4795,390 4569,390" />
+                        <polygon points="6310,300 6536,300 6536,390 6310,390" />
+                        <polygon points="6626,300 6942,300 6942,390 6626,390" />
+                        <polygon points="6942,300 7258,300 7258,390 6942,390" />
+                        <polygon points="7258,300 7574,300 7574,390 7258,390" />
+                        <polygon points="7574,300 7890,300 7890,390 7574,390" />
+                        <polygon points="8206,300 8522,300 8522,390 8206,390" />
+                        <polygon points="8522,300 8838,300 8838,390 8522,390" />
+                        <polygon points="8937,300 9163,300 9163,390 8937,390" />
+                        <polygon points="4569,450 4795,450 4795,540 4569,540" />
+                        <polygon points="6310,450 6536,450 6536,540 6310,540" />
+                        <polygon points="6626,450 6942,450 6942,540 6626,540" />
+                        <polygon points="6942,450 7258,450 7258,540 6942,540" />
+                        <polygon points="7258,450 7574,450 7574,540 7258,540" />
+                        <polygon points="7574,450 7890,450 7890,540 7574,540" />
+                        <polygon points="8206,450 8522,450 8522,540 8206,540" />
+                        <polygon points="8522,450 8838,450 8838,540 8522,540" />
+                        <polygon points="8937,450 9163,450 9163,540 8937,540" />
                         <g id="n4c8j9l" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="4361" y="1350" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(4361, 1350) scale(0.72, 0.72)" />
                            </g>
-                           <g id="s16ft0rl" class="stem">
+                           <g id="xuhjf1u" class="stem">
                               <path d="M4578 1322 L4578 18" stroke-width="18" />
                            </g>
                         </g>
-                        <g id="g1g2xu0" class="graceGrp">
-                           <g id="brn5xsx" class="beam">
-                              <polygon stroke-opacity="1" fill-opacity="1" points="4828,630 6026,630 6026,697 4828,697" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="4828,730 4997,730 4997,797 4828,797" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="5073,730 5309,730 5309,797 5073,797" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="5309,730 5545,730 5545,797 5309,797" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="5781,730 6026,730 6026,797 5781,797" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="4828,830 4997,830 4997,897 4828,897" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="5073,830 5309,830 5309,897 5073,897" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="5309,830 5545,830 5545,897 5309,897" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="5781,830 6026,830 6026,897 5781,897" />
+                        <g id="v147xugt" class="graceGrp">
+                           <g id="w13emft7" class="beam">
+                              <polygon points="4828,630 6026,630 6026,697 4828,697" />
+                              <polygon points="4828,730 4997,730 4997,797 4828,797" />
+                              <polygon points="5073,730 5309,730 5309,797 5073,797" />
+                              <polygon points="5309,730 5545,730 5545,797 5309,797" />
+                              <polygon points="5781,730 6026,730 6026,797 5781,797" />
+                              <polygon points="4828,830 4997,830 4997,897 4828,897" />
+                              <polygon points="5073,830 5309,830 5309,897 5073,897" />
+                              <polygon points="5309,830 5545,830 5545,897 5309,897" />
+                              <polygon points="5781,830 6026,830 6026,897 5781,897" />
                               <g id="n1cvhhm8" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="4677" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(4677, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="sawfh89" class="stem">
+                                 <g id="ymj1prb" class="stem">
                                     <path d="M4837 1149 L4837 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="n1fuvlf8" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="4913" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(4913, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="syvukvk" class="stem">
+                                 <g id="z1smgsta" class="stem">
                                     <path d="M5073 1149 L5073 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="nmrv9tj" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="5149" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(5149, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="s1w9zdjn" class="stem">
+                                 <g id="adfukx0" class="stem">
                                     <path d="M5309 1149 L5309 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="nsnekx2" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="5385" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(5385, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="s1kyjas7" class="stem">
+                                 <g id="b1v7qeu0" class="stem">
                                     <path d="M5545 1149 L5545 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="n1etc0qn" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="5621" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(5621, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="s1vopl5h" class="stem">
+                                 <g id="c1mujqwz" class="stem">
                                     <path d="M5781 1149 L5781 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="n8e7lg" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="5857" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(5857, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="svd7r5w" class="stem">
+                                 <g id="dvebhgs" class="stem">
                                     <path d="M6017 1149 L6017 648" stroke-width="18" />
                                  </g>
                               </g>
@@ -162,351 +162,351 @@
                         </g>
                         <g id="n1uuk73i" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="6093" y="1170" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(6093, 1170) scale(0.72, 0.72)" />
                            </g>
-                           <g id="sm5z9s3" class="stem">
+                           <g id="e1ap46qu" class="stem">
                               <path d="M6310 1142 L6310 18" stroke-width="18" />
                            </g>
                         </g>
                         <g id="n3dn07d" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="6409" y="990" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(6409, 990) scale(0.72, 0.72)" />
                            </g>
-                           <g id="svjgu6y" class="stem">
+                           <g id="f11jvypa" class="stem">
                               <path d="M6626 962 L6626 18" stroke-width="18" />
                            </g>
                         </g>
                         <g id="nkya9h1" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="6725" y="990" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(6725, 990) scale(0.72, 0.72)" />
                            </g>
-                           <g id="s15dw0vr" class="stem">
+                           <g id="gv9pr18" class="stem">
                               <path d="M6942 962 L6942 18" stroke-width="18" />
                            </g>
                         </g>
                         <g id="nbsaaco" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="7041" y="990" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(7041, 990) scale(0.72, 0.72)" />
                            </g>
-                           <g id="sw8k7m4" class="stem">
+                           <g id="h1ska92d" class="stem">
                               <path d="M7258 962 L7258 18" stroke-width="18" />
                            </g>
                         </g>
                         <g id="n5wz98m" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="7357" y="1170" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(7357, 1170) scale(0.72, 0.72)" />
                            </g>
-                           <g id="s931e0a" class="stem">
+                           <g id="i1k7bq4y" class="stem">
                               <path d="M7574 1142 L7574 18" stroke-width="18" />
                            </g>
                         </g>
                         <g id="n1db47iw" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="7673" y="1080" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(7673, 1080) scale(0.72, 0.72)" />
                            </g>
-                           <g id="s1nvhzf7" class="stem">
+                           <g id="j15w7erb" class="stem">
                               <path d="M7890 1052 L7890 18" stroke-width="18" />
                            </g>
-                           <g id="avjlvvp" class="accid" />
+                           <g id="jrr1j2p" class="accid" />
                         </g>
                         <g id="ntq6p5a" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="7989" y="990" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(7989, 990) scale(0.72, 0.72)" />
                            </g>
-                           <g id="s1e67ta5" class="stem">
+                           <g id="kmzi744" class="stem">
                               <path d="M8206 962 L8206 18" stroke-width="18" />
                            </g>
                         </g>
                         <g id="n1xf43ac" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="8305" y="1170" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(8305, 1170) scale(0.72, 0.72)" />
                            </g>
-                           <g id="s1w8rmo5" class="stem">
+                           <g id="lkwytru" class="stem">
                               <path d="M8522 1142 L8522 18" stroke-width="18" />
                            </g>
                         </g>
                         <g id="n1t3mcc" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="8621" y="1260" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(8621, 1260) scale(0.72, 0.72)" />
                            </g>
-                           <g id="s1bw8t51" class="stem">
+                           <g id="m56ywnv" class="stem">
                               <path d="M8838 1232 L8838 18" stroke-width="18" />
                            </g>
                         </g>
                         <g id="n1l25qne" class="note">
                            <g class="notehead">
-                              <use xlink:href="#E0A4-d1p96x6k" x="8937" y="1440" height="720px" width="720px" />
+                              <use xlink:href="#E0A4-c14ky4li" transform="translate(8937, 1440) scale(0.72, 0.72)" />
                            </g>
-                           <g id="s1yb9nke" class="stem">
+                           <g id="n1kt9ygm" class="stem">
                               <path d="M9154 1412 L9154 18" stroke-width="18" />
                            </g>
-                           <g id="ay21w0p" class="accid" />
+                           <g id="o1hijz5v" class="accid" />
                         </g>
                      </g>
                      <g id="rj4hhca" class="rest">
-                        <use xlink:href="#E4E9-d1p96x6k" x="9252" y="1170" height="720px" width="720px" />
+                        <use xlink:href="#E4E9-c14ky4li" transform="translate(9252, 1170) scale(0.72, 0.72)" />
                      </g>
-                     <g id="b1uemp91" class="beam">
-                        <polygon stroke-opacity="1" fill-opacity="1" points="9895,0 14607,0 14607,90 9895,90" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="9895,150 10121,150 10121,240 9895,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="11636,150 11952,150 11952,240 11636,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="11952,150 12268,150 12268,240 11952,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12268,150 12584,150 12584,240 12268,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12584,150 12900,150 12900,240 12584,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12900,150 13216,150 13216,240 12900,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="13216,150 13532,150 13532,240 13216,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="13532,150 13848,150 13848,240 13532,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="13848,150 14607,150 14607,240 13848,240" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="9895,300 10121,300 10121,390 9895,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="11636,300 11862,300 11862,390 11636,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="11952,300 12268,300 12268,390 11952,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12268,300 12584,300 12584,390 12268,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12584,300 12900,300 12900,390 12584,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12900,300 13216,300 13216,390 12900,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="13532,300 13848,300 13848,390 13532,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="13848,300 14607,300 14607,390 13848,390" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="9895,450 10121,450 10121,540 9895,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="11636,450 11862,450 11862,540 11636,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="11952,450 12268,450 12268,540 11952,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12268,450 12584,450 12584,540 12268,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12584,450 12900,450 12900,540 12584,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="12900,450 13216,450 13216,540 12900,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="13532,450 13848,450 13848,540 13532,540" />
-                        <polygon stroke-opacity="1" fill-opacity="1" points="13848,450 14607,450 14607,540 13848,540" />
+                     <g id="q1utrz5m" class="beam">
+                        <polygon points="9895,0 12277,0 12277,90 9895,90" />
+                        <polygon points="9895,150 10121,150 10121,240 9895,240" />
+                        <polygon points="11636,150 11952,150 11952,240 11636,240" />
+                        <polygon points="11952,150 12277,150 12277,240 11952,240" />
+                        <polygon points="9895,300 10121,300 10121,390 9895,390" />
+                        <polygon points="11636,300 11862,300 11862,390 11636,390" />
+                        <polygon points="11952,300 12277,300 12277,390 11952,390" />
+                        <polygon points="9895,450 10121,450 10121,540 9895,540" />
+                        <polygon points="11636,450 11862,450 11862,540 11636,540" />
+                        <polygon points="11952,450 12277,450 12277,540 11952,540" />
                         <g id="c12tutzl" class="chord">
-                           <g id="s1uxsgp" class="stem">
+                           <g id="ozsxsvl" class="stem">
                               <path d="M9904 1502 L9904 18" stroke-width="18" />
                            </g>
                            <g id="nddbzb" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="9687" y="1530" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(9687, 1530) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="n19l535h" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="9687" y="1350" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(9687, 1350) scale(0.72, 0.72)" />
                               </g>
                            </g>
                         </g>
-                        <g id="gxosqiy" class="graceGrp">
-                           <g id="bywju8j" class="beam">
-                              <polygon stroke-opacity="1" fill-opacity="1" points="10154,630 11352,630 11352,697 10154,697" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="10154,730 10323,730 10323,797 10154,797" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="10399,730 10635,730 10635,797 10399,797" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="10635,730 10871,730 10871,797 10635,797" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="11107,730 11352,730 11352,797 11107,797" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="10154,830 10323,830 10323,897 10154,897" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="10399,830 10635,830 10635,897 10399,897" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="10635,830 10871,830 10871,897 10635,897" />
-                              <polygon stroke-opacity="1" fill-opacity="1" points="11107,830 11352,830 11352,897 11107,897" />
+                        <g id="u1fcfw17" class="graceGrp">
+                           <g id="v1pzebg9" class="beam">
+                              <polygon points="10154,630 11352,630 11352,697 10154,697" />
+                              <polygon points="10154,730 10323,730 10323,797 10154,797" />
+                              <polygon points="10399,730 10635,730 10635,797 10399,797" />
+                              <polygon points="10635,730 10871,730 10871,797 10635,797" />
+                              <polygon points="11107,730 11352,730 11352,797 11107,797" />
+                              <polygon points="10154,830 10323,830 10323,897 10154,897" />
+                              <polygon points="10399,830 10635,830 10635,897 10399,897" />
+                              <polygon points="10635,830 10871,830 10871,897 10635,897" />
+                              <polygon points="11107,830 11352,830 11352,897 11107,897" />
                               <g id="n1y8yw3c" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="10003" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(10003, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="s12gcnkf" class="stem">
+                                 <g id="p18fpn2y" class="stem">
                                     <path d="M10163 1149 L10163 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="nw5kwwz" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="10239" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(10239, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="s161ioff" class="stem">
+                                 <g id="qks48f7" class="stem">
                                     <path d="M10399 1149 L10399 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="noz29xv" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="10475" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(10475, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="s1n3amip" class="stem">
+                                 <g id="r352bm0" class="stem">
                                     <path d="M10635 1149 L10635 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="nr8mo4y" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="10711" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(10711, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="sxn9qu2" class="stem">
+                                 <g id="se8931t" class="stem">
                                     <path d="M10871 1149 L10871 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="n1apo5ur" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="10947" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(10947, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="s1wgn96w" class="stem">
+                                 <g id="t1mkbjaj" class="stem">
                                     <path d="M11107 1149 L11107 648" stroke-width="18" />
                                  </g>
                               </g>
                               <g id="noj2mvr" class="note">
                                  <g class="notehead">
-                                    <use xlink:href="#E0A4-d1p96x6k" x="11183" y="1170" height="540px" width="540px" />
+                                    <use xlink:href="#E0A4-c14ky4li" transform="translate(11183, 1170) scale(0.54, 0.54)" />
                                  </g>
-                                 <g id="s1gadf99" class="stem">
+                                 <g id="uw8wlud" class="stem">
                                     <path d="M11343 1149 L11343 648" stroke-width="18" />
                                  </g>
                               </g>
                            </g>
                         </g>
                         <g id="c12tj7a3" class="chord">
-                           <g id="sbtri07" class="stem">
+                           <g id="v1ktapb5" class="stem">
                               <path d="M11636 1322 L11636 18" stroke-width="18" />
                            </g>
                            <g id="n2sivfk" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="11419" y="1350" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(11419, 1350) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="n1l2kmcn" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="11419" y="1170" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(11419, 1170) scale(0.72, 0.72)" />
                               </g>
                            </g>
                         </g>
                         <g id="ceat4vl" class="chord">
-                           <g id="svqixy0" class="stem">
+                           <g id="w1omoctb" class="stem">
                               <path d="M11952 1142 L11952 18" stroke-width="18" />
                            </g>
                            <g id="n12ch662" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="11735" y="1170" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(11735, 1170) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="n1r96y20" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="11735" y="990" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(11735, 990) scale(0.72, 0.72)" />
                               </g>
                            </g>
                         </g>
                         <g id="c1esogo2" class="chord">
-                           <g id="s17d6nh6" class="stem">
+                           <g id="x15uvkyw" class="stem">
                               <path d="M12268 1142 L12268 18" stroke-width="18" />
                            </g>
                            <g id="n1e5do8b" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="12051" y="1170" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(12051, 1170) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="n11mfx7r" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="12051" y="990" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(12051, 990) scale(0.72, 0.72)" />
                               </g>
                            </g>
                         </g>
+                     </g>
+                     <g id="ltka5yv" class="beam">
+                        <polygon points="12575,90 14607,90 14607,180 12575,180" />
+                        <polygon points="12575,240 12900,240 12900,330 12575,330" />
+                        <polygon points="12900,240 13216,240 13216,330 12900,330" />
+                        <polygon points="13216,240 13532,240 13532,330 13216,330" />
+                        <polygon points="13532,240 13848,240 13848,330 13532,330" />
+                        <polygon points="13848,240 14607,240 14607,330 13848,330" />
+                        <polygon points="12575,390 12900,390 12900,480 12575,480" />
+                        <polygon points="12900,390 13216,390 13216,480 12900,480" />
+                        <polygon points="13532,390 13848,390 13848,480 13532,480" />
+                        <polygon points="13848,390 14607,390 14607,480 13848,480" />
+                        <polygon points="12575,540 12900,540 12900,630 12575,630" />
+                        <polygon points="12900,540 13216,540 13216,630 12900,630" />
+                        <polygon points="13532,540 13848,540 13848,630 13532,630" />
+                        <polygon points="13848,540 14607,540 14607,630 13848,630" />
                         <g id="ci5tqxj" class="chord">
-                           <g id="s1triccx" class="stem">
-                              <path d="M12584 1142 L12584 18" stroke-width="18" />
+                           <g id="yev58n3" class="stem">
+                              <path d="M12584 1142 L12584 108" stroke-width="18" />
                            </g>
                            <g id="n1qj2hdo" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="12367" y="1170" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(12367, 1170) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="n1texv5p" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="12367" y="990" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(12367, 990) scale(0.72, 0.72)" />
                               </g>
                            </g>
                         </g>
                         <g id="c1gjm4tj" class="chord">
-                           <g id="sr99g4u" class="stem">
-                              <path d="M12900 1322 L12900 18" stroke-width="18" />
+                           <g id="z1qs9ikc" class="stem">
+                              <path d="M12900 1322 L12900 108" stroke-width="18" />
                            </g>
                            <g id="nvi7mdg" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="12683" y="1350" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(12683, 1350) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="ni715pd" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="12683" y="1170" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(12683, 1170) scale(0.72, 0.72)" />
                               </g>
                            </g>
                         </g>
                         <g id="cl919r6" class="chord">
-                           <g id="s16gfgyb" class="stem">
-                              <path d="M13216 1232 L13216 18" stroke-width="18" />
+                           <g id="a15swmcb" class="stem">
+                              <path d="M13216 1232 L13216 108" stroke-width="18" />
                            </g>
                            <g id="n1dz21ij" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="12999" y="1260" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(12999, 1260) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="n149cn2r" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="12999" y="1080" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(12999, 1080) scale(0.72, 0.72)" />
                               </g>
-                              <g id="axmi3t0" class="accid" />
+                              <g id="vtjw61e" class="accid" />
                            </g>
                         </g>
                         <g id="c1sb2c9h" class="chord">
-                           <g id="sa2g272" class="stem">
-                              <path d="M13532 1142 L13532 18" stroke-width="18" />
+                           <g id="baa2w65" class="stem">
+                              <path d="M13532 1142 L13532 108" stroke-width="18" />
                            </g>
                            <g id="nexpyg3" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="13315" y="1170" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(13315, 1170) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="nva8v9o" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="13315" y="990" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(13315, 990) scale(0.72, 0.72)" />
                               </g>
                            </g>
                         </g>
                         <g id="c1s95934" class="chord">
-                           <g id="s1llcq4n" class="stem">
-                              <path d="M13848 1322 L13848 18" stroke-width="18" />
+                           <g id="cgwg61z" class="stem">
+                              <path d="M13848 1322 L13848 108" stroke-width="18" />
                            </g>
                            <g id="n1e2po7u" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="13631" y="1350" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(13631, 1350) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="nmkux78" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="13631" y="1170" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(13631, 1170) scale(0.72, 0.72)" />
                               </g>
                            </g>
                         </g>
                         <g id="r1isy8kp" class="rest mscore-beam-mid">
-                           <use xlink:href="#E4E9-d1p96x6k" x="13946" y="1170" height="720px" width="720px" />
+                           <use xlink:href="#E4E9-c14ky4li" transform="translate(13946, 1170) scale(0.72, 0.72)" />
                         </g>
                         <g id="c1z0iy91" class="chord">
-                           <g id="s2k6kzv" class="stem">
-                              <path d="M14598 1592 L14598 18" stroke-width="18" />
+                           <g id="dg5hwf5" class="stem">
+                              <path d="M14598 1592 L14598 108" stroke-width="18" />
                            </g>
                            <g id="n1posvb2" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="14381" y="1620" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(14381, 1620) scale(0.72, 0.72)" />
                               </g>
                            </g>
                            <g id="n73hvll" class="note">
                               <g class="notehead">
-                                 <use xlink:href="#E0A4-d1p96x6k" x="14381" y="1440" height="720px" width="720px" />
+                                 <use xlink:href="#E0A4-c14ky4li" transform="translate(14381, 1440) scale(0.72, 0.72)" />
                               </g>
-                              <g id="a1kwqt8s" class="accid" />
+                              <g id="g9rrljz" class="accid" />
                            </g>
                         </g>
                      </g>
                      <g id="rtksbu4" class="rest">
-                        <use xlink:href="#E4E6-d1p96x6k" x="14697" y="1170" height="720px" width="720px" />
+                        <use xlink:href="#E4E6-c14ky4li" transform="translate(14697, 1170) scale(0.72, 0.72)" />
                      </g>
                      <g id="r1ves4t" class="rest">
-                        <use xlink:href="#E4E9-d1p96x6k" x="15147" y="1170" height="720px" width="720px" />
+                        <use xlink:href="#E4E9-c14ky4li" transform="translate(15147, 1170) scale(0.72, 0.72)" />
                      </g>
                   </g>
                </g>
-               <g id="b1g5b82l" class="barLine">
+               <g id="q15b3y2h" class="barLine">
                   <path d="M15596 810 L15596 1530" stroke-width="27" />
                   <path d="M15726 810 L15726 1530" stroke-width="90" />
                </g>
             </g>
-            <g id="sawxozn" class="systemMilestoneEnd s1" />
+            <g id="q15pus7u" class="systemMilestoneEnd s1" />
          </g>
-         <g id="p1crdzhq" class="pageMilestoneEnd s9p1phi" />
-         <g id="pnfq9pq" class="pageMilestoneEnd mjc5k75" />
+         <g id="ro4ajy2" class="pageMilestoneEnd e1u9vmsw" />
+         <g id="sklsk5k" class="pageMilestoneEnd d1031sj5" />
       </g>
    </svg>
 </svg>

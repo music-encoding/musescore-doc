@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="2100px" height="280px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="daupdia">
-   <desc>Engraved by Verovio 5.1.0</desc>
+<svg width="2100px" height="280px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="z1pr3uz4">
+   <desc>Engraved by Verovio 6.0.1</desc>
    <defs>
-      <symbol id="E0A3-daupdia" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M278 64c0 22 -17 39 -43 39c-12 0 -26 -3 -41 -10c-85 -43 -165 -94 -165 -156c5 -25 15 -32 49 -32c67 11 200 95 200 159zM0 -36c0 68 73 174 200 174c66 0 114 -39 114 -97c0 -84 -106 -173 -218 -173c-64 0 -96 32 -96 96z" />
-      </symbol>
-      <symbol id="E083-daupdia" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M208 250c97 0 177 -52 177 -116c0 -69 -40 -111 -118 -125c56 -5 125 -44 125 -116c0 -31 -10 -57 -31 -78c-19 -21 -45 -38 -78 -49l-50 -11c-15 -3 -36 -7 -55 -7c-50 0 -86 16 -113 38c-16 10 -23 18 -34 34c-7 13 -11 25 -11 38c0 43 27 83 68 83l3 -2 c61 0 75 -42 75 -70c0 -19 -24 -42 -26 -57c7 -17 20 -25 37 -25c44 0 94 29 94 78c0 75 -34 125 -138 125v36c84 0 131 22 131 98c0 54 -37 88 -87 88c-26 0 -43 -7 -51 -22c15 -22 44 -16 44 -70c0 -37 -37 -62 -71 -62c-22 0 -69 15 -69 76c0 79 101 116 178 116z" />
-      </symbol>
-      <symbol id="E084-daupdia" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M20 -78c84 97 114 180 134 329h170c-13 -32 -82 -132 -99 -151l-84 -97c-33 -36 -59 -63 -80 -81h162v102l127 123v-225h57v-39h-57v-34c0 -43 19 -65 57 -65v-34h-244v36c48 0 60 26 60 70v27h-203v39z" />
-      </symbol>
-      <symbol id="E0A4-daupdia" viewBox="0 0 1000 1000" overflow="inherit">
-         <path transform="scale(1,-1)" d="M0 -39c0 68 73 172 200 172c66 0 114 -37 114 -95c0 -84 -106 -171 -218 -171c-64 0 -96 30 -96 94z" />
-      </symbol>
-      <symbol id="E050-daupdia" viewBox="0 0 1000 1000" overflow="inherit">
+      <g id="E050-z1pr3uz4">
          <path transform="scale(1,-1)" d="M441 -245c-23 -4 -48 -6 -76 -6c-59 0 -102 7 -130 20c-88 42 -150 93 -187 154c-26 44 -43 103 -48 176c0 6 -1 13 -1 19c0 54 15 111 45 170c29 57 65 106 110 148s96 85 153 127c-3 16 -8 46 -13 92c-4 43 -5 73 -5 89c0 117 16 172 69 257c34 54 64 82 89 82 c21 0 43 -30 69 -92s39 -115 41 -159v-15c0 -109 -21 -162 -67 -241c-13 -20 -63 -90 -98 -118c-13 -9 -25 -19 -37 -29l31 -181c8 1 18 2 28 2c58 0 102 -12 133 -35c59 -43 92 -104 98 -184c1 -7 1 -15 1 -22c0 -123 -87 -209 -181 -248c8 -57 17 -110 25 -162 c5 -31 6 -58 6 -80c0 -30 -5 -53 -14 -70c-35 -64 -88 -99 -158 -103c-5 0 -11 -1 -16 -1c-37 0 -72 10 -108 27c-50 24 -77 59 -80 105v11c0 29 7 55 20 76c18 28 45 42 79 44h6c49 0 93 -42 97 -87v-9c0 -51 -34 -86 -105 -106c17 -24 51 -36 102 -36c62 0 116 43 140 85 c9 16 13 41 13 74c0 20 -1 42 -5 67c-8 53 -18 106 -26 159zM461 939c-95 0 -135 -175 -135 -286c0 -24 2 -48 5 -71c50 39 92 82 127 128c40 53 60 100 60 140v8c-4 53 -22 81 -55 81h-2zM406 119l54 -326c73 25 110 78 110 161c0 7 0 15 -1 23c-7 95 -57 142 -151 142h-12 zM382 117c-72 -2 -128 -47 -128 -120v-7c2 -46 43 -99 75 -115c-3 -2 -7 -5 -10 -10c-70 33 -116 88 -123 172v11c0 68 44 126 88 159c23 17 49 29 78 36l-29 170c-21 -13 -52 -37 -92 -73c-50 -44 -86 -84 -109 -119c-45 -69 -67 -130 -67 -182v-13c5 -68 35 -127 93 -176 s125 -73 203 -73c25 0 50 3 75 9c-19 111 -36 221 -54 331z" />
-      </symbol>
-      <symbol id="E240-daupdia" viewBox="0 0 1000 1000" overflow="inherit">
+      </g>
+      <g id="E083-z1pr3uz4">
+         <path transform="scale(1,-1)" d="M208 250c97 0 177 -52 177 -116c0 -69 -40 -111 -118 -125c56 -5 125 -44 125 -116c0 -31 -10 -57 -31 -78c-19 -21 -45 -38 -78 -49l-50 -11c-15 -3 -36 -7 -55 -7c-50 0 -86 16 -113 38c-16 10 -23 18 -34 34c-7 13 -11 25 -11 38c0 43 27 83 68 83l3 -2 c61 0 75 -42 75 -70c0 -19 -24 -42 -26 -57c7 -17 20 -25 37 -25c44 0 94 29 94 78c0 75 -34 125 -138 125v36c84 0 131 22 131 98c0 54 -37 88 -87 88c-26 0 -43 -7 -51 -22c15 -22 44 -16 44 -70c0 -37 -37 -62 -71 -62c-22 0 -69 15 -69 76c0 79 101 116 178 116z" />
+      </g>
+      <g id="E084-z1pr3uz4">
+         <path transform="scale(1,-1)" d="M20 -78c84 97 114 180 134 329h170c-13 -32 -82 -132 -99 -151l-84 -97c-33 -36 -59 -63 -80 -81h162v102l127 123v-225h57v-39h-57v-34c0 -43 19 -65 57 -65v-34h-244v36c48 0 60 26 60 70v27h-203v39z" />
+      </g>
+      <g id="E0A4-z1pr3uz4">
+         <path transform="scale(1,-1)" d="M0 -39c0 68 73 172 200 172c66 0 114 -37 114 -95c0 -84 -106 -171 -218 -171c-64 0 -96 30 -96 94z" />
+      </g>
+      <g id="E0A3-z1pr3uz4">
+         <path transform="scale(1,-1)" d="M278 64c0 22 -17 39 -43 39c-12 0 -26 -3 -41 -10c-85 -43 -165 -94 -165 -156c5 -25 15 -32 49 -32c67 11 200 95 200 159zM0 -36c0 68 73 174 200 174c66 0 114 -39 114 -97c0 -84 -106 -173 -218 -173c-64 0 -96 32 -96 96z" />
+      </g>
+      <g id="E240-z1pr3uz4">
          <path transform="scale(1,-1)" d="M179 -646c15 29 29 55 46 102c18 49 30 108 30 138c0 105 -80 173 -168 200c-18 5 -47 9 -87 16v190h22c8 0 33 -61 71 -95c4 -3 -2 3 61 -56c62 -58 122 -137 122 -241c0 -38 -13 -106 -35 -163c-20 -51 -43 -99 -66 -132c-6 -5 -10 -7 -13 -7s-5 2 -5 5l4 10 c1 3 14 25 18 33z" />
-      </symbol>
+      </g>
    </defs>
-   <style type="text/css">#daupdia g.page-margin {font-family:Times,serif;} #daupdia g.ending, #daupdia g.fing, #daupdia g.reh, #daupdia g.tempo {font-weight:bold;} #daupdia g.dir, #daupdia g.dynam, #daupdia g.mNum {font-style:italic;} #daupdia g.label {font-weight:normal;} #daupdia path {stroke:currentColor}</style>
-   <svg class="definition-scale" color="black" viewBox="0 0 21000 2800">
+   <style type="text/css">#z1pr3uz4 g.ending, #z1pr3uz4 g.fing, #z1pr3uz4 g.reh, #z1pr3uz4 g.tempo {font-weight:bold;}#z1pr3uz4 g.dir, #z1pr3uz4 g.dynam, #z1pr3uz4 g.mNum {font-style:italic;}#z1pr3uz4 g.label {font-weight:normal;}#z1pr3uz4 ellipse, #z1pr3uz4 path, #z1pr3uz4 polygon, #z1pr3uz4 polyline, #z1pr3uz4 rect {stroke:currentColor}</style>
+   <svg class="definition-scale" color="black" font-family="Times, serif" viewBox="0 0 21000 2800">
       <g class="page-margin" transform="translate(500, 500)">
-         <g id="m1fvw2w3" class="mdiv pageMilestone" />
-         <g id="sl53ve" class="score pageMilestone" />
-         <g id="s1gzc2g5" class="system">
-            <g id="l11urso" class="label">
+         <g id="a17qo99h" class="mdiv pageMilestone" />
+         <g id="bueq2ya" class="score pageMilestone" />
+         <g id="z591fq0" class="system">
+            <g id="lq18q87" class="label">
                <text x="1201" y="990" text-anchor="end" font-size="0px">
-                  <tspan id="tg4djsv" class="text">
+                  <tspan id="m1xzxw6g" class="text">
                      <tspan font-size="405px">Violin</tspan>
                   </tspan>
                </text>
@@ -42,26 +42,26 @@
                   <path d="M1381 900 L3538 900" stroke-width="13" />
                   <path d="M1381 1080 L3538 1080" stroke-width="13" />
                   <path d="M1381 1260 L3538 1260" stroke-width="13" />
-                  <g id="c1rc8epa" class="clef">
-                     <use xlink:href="#E050-daupdia" x="1471" y="1080" height="720px" width="720px" />
+                  <g id="nw5jm30" class="clef">
+                     <use xlink:href="#E050-z1pr3uz4" transform="translate(1471, 1080) scale(0.72, 0.72)" />
                   </g>
-                  <g id="k623ewc" class="keySig" />
-                  <g id="mqxi197" class="meterSig">
-                     <use xlink:href="#E083-daupdia" x="2108" y="720" height="720px" width="720px" />
-                     <use xlink:href="#E084-daupdia" x="2102" y="1080" height="720px" width="720px" />
+                  <g id="oz3klb2" class="keySig" />
+                  <g id="p2quxyt" class="meterSig">
+                     <use xlink:href="#E083-z1pr3uz4" transform="translate(2108, 720) scale(0.72, 0.72)" />
+                     <use xlink:href="#E084-z1pr3uz4" transform="translate(2102, 1080) scale(0.72, 0.72)" />
                   </g>
                   <g id="m1s1l1" class="layer">
                      <g id="n1yz5z9l" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="2700" y="1080" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(2700, 1080) scale(0.72, 0.72)" />
                         </g>
-                        <g id="sajn0bb" class="stem">
+                        <g id="n1940dy9" class="stem">
                            <path d="M2917 1052 L2917 450" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="b255q30" class="barLine">
+               <g id="m1uq66ca" class="barLine">
                   <path d="M3525 540 L3525 1260" stroke-width="27" />
                </g>
             </g>
@@ -75,23 +75,23 @@
                   <g id="m2s1l1" class="layer">
                      <g id="n3c1ths" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A3-daupdia" x="3754" y="1080" height="720px" width="720px" />
+                           <use xlink:href="#E0A3-z1pr3uz4" transform="translate(3754, 1080) scale(0.72, 0.72)" />
                         </g>
-                        <g id="s1w2mn8" class="stem">
+                        <g id="o1cj8ia0" class="stem">
                            <path d="M3971 1052 L3971 450" stroke-width="18" />
                         </g>
                      </g>
                      <g id="npqdmlo" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="5010" y="720" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(5010, 720) scale(0.72, 0.72)" />
                         </g>
-                        <g id="s1qsbdtn" class="stem">
+                        <g id="pmfrzio" class="stem">
                            <path d="M5019 748 L5019 1350" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="b1wmtivu" class="barLine">
+               <g id="y1t627i9" class="barLine">
                   <path d="M5836 540 L5836 1260" stroke-width="27" />
                </g>
             </g>
@@ -105,37 +105,37 @@
                   <g id="m3s1l1" class="layer">
                      <g id="neyegj" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="6065" y="900" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(6065, 900) scale(0.72, 0.72)" />
                         </g>
-                        <g id="d19cqohk" class="dots">
-                           <ellipse cx="6381" cy="810" rx="36" ry="36" fill-opacity="1" stroke-opacity="1" />
+                        <g id="r1ran75a" class="dots">
+                           <ellipse cx="6381" cy="810" rx="36" ry="36" />
                         </g>
-                        <g id="szep5ig" class="stem">
+                        <g id="q1gjog8d" class="stem">
                            <path d="M6074 928 L6074 1500" stroke-width="18" />
                         </g>
                      </g>
                      <g id="n80fo22" class="note mscore-beam-none">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="7118" y="990" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(7118, 990) scale(0.72, 0.72)" />
                         </g>
-                        <g id="sqt5lat" class="stem">
+                        <g id="snol158" class="stem">
                            <path d="M7335 962 L7335 360" stroke-width="18" />
-                           <g id="f17sz4uj" class="flag">
-                              <use xlink:href="#E240-daupdia" x="7326" y="360" height="720px" width="720px" />
+                           <g id="t1dppwzk" class="flag">
+                              <use xlink:href="#E240-z1pr3uz4" transform="translate(7326, 360) scale(0.72, 0.72)" />
                            </g>
                         </g>
                      </g>
                      <g id="ng3zozv" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="7656" y="1080" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(7656, 1080) scale(0.72, 0.72)" />
                         </g>
-                        <g id="sanbdyb" class="stem">
+                        <g id="uudlu88" class="stem">
                            <path d="M7873 1052 L7873 450" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="b1atwyho" class="barLine">
+               <g id="ltz4hyn" class="barLine">
                   <path d="M8482 540 L8482 1260" stroke-width="27" />
                </g>
             </g>
@@ -149,37 +149,37 @@
                   <g id="m4s1l1" class="layer">
                      <g id="n12kjauk" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="8711" y="1080" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(8711, 1080) scale(0.72, 0.72)" />
                         </g>
-                        <g id="dclxe6k" class="dots">
-                           <ellipse cx="9027" cy="990" rx="36" ry="36" fill-opacity="1" stroke-opacity="1" />
+                        <g id="w1sy7f7l" class="dots">
+                           <ellipse cx="9027" cy="990" rx="36" ry="36" />
                         </g>
-                        <g id="se3lmp0" class="stem">
+                        <g id="v1187h9r" class="stem">
                            <path d="M8928 1052 L8928 450" stroke-width="18" />
                         </g>
                      </g>
                      <g id="nbn4bcc" class="note mscore-beam-none">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="9764" y="990" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(9764, 990) scale(0.72, 0.72)" />
                         </g>
-                        <g id="seo1amd" class="stem">
+                        <g id="x1cx4poi" class="stem">
                            <path d="M9981 962 L9981 360" stroke-width="18" />
-                           <g id="f15q8n6y" class="flag">
-                              <use xlink:href="#E240-daupdia" x="9972" y="360" height="720px" width="720px" />
+                           <g id="y17zfx9s" class="flag">
+                              <use xlink:href="#E240-z1pr3uz4" transform="translate(9972, 360) scale(0.72, 0.72)" />
                            </g>
                         </g>
                      </g>
                      <g id="n1pmtkrc" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="10357" y="900" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(10357, 900) scale(0.72, 0.72)" />
                         </g>
-                        <g id="spy4azk" class="stem">
+                        <g id="z1tx1rh2" class="stem">
                            <path d="M10366 928 L10366 1500" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="b1naclgc" class="barLine">
+               <g id="z7z3k9w" class="barLine">
                   <path d="M11183 540 L11183 1260" stroke-width="27" />
                </g>
             </g>
@@ -193,15 +193,15 @@
                   <g id="m5s1l1" class="layer">
                      <g id="n7d7658" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A3-daupdia" x="11412" y="990" height="720px" width="720px" />
+                           <use xlink:href="#E0A3-z1pr3uz4" transform="translate(11412, 990) scale(0.72, 0.72)" />
                         </g>
-                        <g id="s11n4dep" class="stem">
+                        <g id="a1lhwrgb" class="stem">
                            <path d="M11629 962 L11629 360" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="b1zx1mz" class="barLine">
+               <g id="n19cp28" class="barLine">
                   <path d="M12668 540 L12668 1260" stroke-width="27" />
                </g>
             </g>
@@ -215,15 +215,15 @@
                   <g id="m6s1l1" class="layer">
                      <g id="n100aznw" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="12897" y="900" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(12897, 900) scale(0.72, 0.72)" />
                         </g>
-                        <g id="s17k4ibn" class="stem">
+                        <g id="b16ad1jn" class="stem">
                            <path d="M12906 928 L12906 1500" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="b3wujja" class="barLine">
+               <g id="z24p6mn" class="barLine">
                   <path d="M13722 540 L13722 1260" stroke-width="27" />
                </g>
             </g>
@@ -237,23 +237,23 @@
                   <g id="m7s1l1" class="layer">
                      <g id="n16y0l6n" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A3-daupdia" x="13951" y="720" height="720px" width="720px" />
+                           <use xlink:href="#E0A3-z1pr3uz4" transform="translate(13951, 720) scale(0.72, 0.72)" />
                         </g>
-                        <g id="sdn3k8j" class="stem">
+                        <g id="ciutmgp" class="stem">
                            <path d="M13960 745 L13960 1350" stroke-width="18" />
                         </g>
                      </g>
                      <g id="n374iko" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="15207" y="810" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(15207, 810) scale(0.72, 0.72)" />
                         </g>
-                        <g id="s1khtvuo" class="stem">
+                        <g id="db67xqi" class="stem">
                            <path d="M15216 838 L15216 1440" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="b17dsp9m" class="barLine">
+               <g id="l1p24zkg" class="barLine">
                   <path d="M16033 540 L16033 1260" stroke-width="27" />
                </g>
             </g>
@@ -267,23 +267,23 @@
                   <g id="m8s1l1" class="layer">
                      <g id="ni0o84b" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A4-daupdia" x="16262" y="900" height="720px" width="720px" />
+                           <use xlink:href="#E0A4-z1pr3uz4" transform="translate(16262, 900) scale(0.72, 0.72)" />
                         </g>
-                        <g id="s1ofdwa6" class="stem">
+                        <g id="e7nobu8" class="stem">
                            <path d="M16271 928 L16271 1500" stroke-width="18" />
                         </g>
                      </g>
                      <g id="n1t762ep" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A3-daupdia" x="17087" y="990" height="720px" width="720px" />
+                           <use xlink:href="#E0A3-z1pr3uz4" transform="translate(17087, 990) scale(0.72, 0.72)" />
                         </g>
-                        <g id="sp0va04" class="stem">
+                        <g id="fz2el8b" class="stem">
                            <path d="M17304 962 L17304 360" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="bb1jh6u" class="barLine">
+               <g id="yhwg1" class="barLine">
                   <path d="M18344 540 L18344 1260" stroke-width="27" />
                </g>
             </g>
@@ -297,23 +297,23 @@
                   <g id="m9s1l1" class="layer">
                      <g id="n1kdz5jj" class="note">
                         <g class="notehead">
-                           <use xlink:href="#E0A3-daupdia" x="18573" y="1080" height="720px" width="720px" />
+                           <use xlink:href="#E0A3-z1pr3uz4" transform="translate(18573, 1080) scale(0.72, 0.72)" />
                         </g>
-                        <g id="sygvvkx" class="stem">
+                        <g id="grznljb" class="stem">
                            <path d="M18790 1052 L18790 450" stroke-width="18" />
                         </g>
                      </g>
                   </g>
                </g>
-               <g id="b1ctguco" class="barLine">
+               <g id="l1sd7s52" class="barLine">
                   <path d="M19829 540 L19829 1260" stroke-width="27" />
                   <path d="M19959 540 L19959 1260" stroke-width="90" />
                </g>
             </g>
-            <g id="sw7y9at" class="systemMilestoneEnd s1" />
+            <g id="wxoo83z" class="systemMilestoneEnd s1" />
          </g>
-         <g id="pw1edso" class="pageMilestoneEnd sl53ve" />
-         <g id="psiyerp" class="pageMilestoneEnd m1fvw2w3" />
+         <g id="x1cum9j6" class="pageMilestoneEnd bueq2ya" />
+         <g id="yltvvi0" class="pageMilestoneEnd a17qo99h" />
       </g>
    </svg>
 </svg>

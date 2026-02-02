@@ -18,4 +18,5 @@ Relevant tests:
 {% include test file="score-02" %}
 
 Known limitations:
-* Bar line spanning in MuseScore is defined on a staff level. In MEI, this is defined through `staffGrp@bar.thru`. The current implementation, the value for `@bar.thru` is determined by the spanning of the first staff, and only for the first level of nesting `staffGrp`. 
+
+* In MuseScore, the bar line spanning is defined on a staff level. In MEI, this is specified using the `staffGrp@bar.thru` attribute. The current implementation determines the value of `@bar.thru` based on the spanning of the first staff and only for the first level of nesting `staffGrp`.

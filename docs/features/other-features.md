@@ -25,10 +25,11 @@ Relevant tests:
 {% include test file="lyric-03" %}
 
 Known limitations:
+
 * Any SMuFL character within a lyric is considered to be an elision character
 * Elision character is always SMuFL character `lyricsElision` (U+E551)
 
-### Figure bass
+### Figured bass
 
 Relevant tests:
 {% include test file="fig-bass-01" %}
@@ -37,6 +38,10 @@ Relevant tests:
 
 Relevant tests:
 {% include test file="artic-01" %}
+
+Known limitations:
+
+* Chord lines (i.e., `doit`, `scoop`, `plop`, etc.) are not supported
 
 ### Ornaments such as mordents and turns
 
@@ -54,6 +59,12 @@ Relevant tests:
 Relevant tests:
 {% include test file="pedal-01" %}
 
+### Rehearsal marks
+
+Relevant tests:
+
+% include test file="reh-01" %}
+
 ### Bow tremolo
 
 Relevant tests:
@@ -63,6 +74,11 @@ Relevant tests:
 
 Relevant tests:
 {% include test file="measure-repeat-01" %}
+
+### Glissandos
+
+Relevant tests:
+{% include test file="gliss-01" %}
 
 ### Colors
 

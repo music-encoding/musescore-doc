@@ -14,6 +14,7 @@ Sound processing parameters of the voltas are encoded with `@type`, with the rep
 Jump and marker elements are encoded with `repeatMark`. The `@func` stores the type for Marker (`coda`, `segno ` and `fine`) and Jump (`dalsegno` and `dacapo`).
 
 An additional `@type` attribute is used to encoded the specific MuseScore type. For example:
+
 * `repeatMark@type="mscore-marker-varied-coda` for the MuseScore coda variation.
 * `repeatMark@type="mscore-jump-dc-al-double-coda` for the MuseScore jump D.C. al Double Coda.
 
@@ -23,5 +24,6 @@ Relevant tests:
 {% include test file="jump-02" %}
 
 Known limitations:
+
 * For Jump, values for jumpTo, playUntil and continueAt are not exported and default values are assume during import. Similarly, the default value for label is used for Marker during import.
 * Import uses default values for the text content for both Jump and Marker.

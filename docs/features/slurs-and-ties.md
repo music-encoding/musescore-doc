@@ -19,3 +19,15 @@ Relevant tests:
 Known limitations:
 
 * There is no distinction in the export between dashed and wide-dashed slur and both are exported with `@lform="dashed"`.
+
+## Laissez vibrer ties (open ties)
+
+Laissez vibrer ties are encoded with `lv` and only `@startid`.
+
+Relevant tests:
+{% include test file="laissez-vibrer-01" %}
+
+Known limitations:
+
+* There is no distinction in the export between dashed and wide-dashed slur and both are exported with `@lform="dashed"`.
+* The length of a laissez vibrer is not exported.

@@ -8,6 +8,7 @@ parent: "General structure"
 ## Title frame (page head)
 
 The top (first) text frame in MuseScore is encoded as `pgHead`. Text elements are placed and size according to their type:
+
 * Title: top-center, size `x-large`
 * Subtitle: top-center, size `large`
 * Composer: bottom-right, size `normal`
@@ -31,4 +32,5 @@ Relevant tests:
 {% include test file="page-head-02" %}
 
 Known limitations:
+
 * Text formatting (i.e., italic, bold, etc.) within a text element is currently not preserved.

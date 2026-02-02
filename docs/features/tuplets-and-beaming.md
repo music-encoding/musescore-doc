@@ -30,4 +30,4 @@ Relevant tests:
 Known limitations:
 
 * Nested tuplets (tuplet within tuplet) are not supported.
-* Feathered beams are not supported.
+* Feathered beams are not available in MEI Basic.
