@@ -67,9 +67,9 @@ The following metadata tags from the [Project properties](https://musescore.org/
 ```
 
 {: .warning }
-The tags `Creation date`, `Platform` and `Source` are currently **not preserved** since no appropriate place in MEI-Basic has been found
+The tags `Creation date`, `Platform` and `Source` are currently **not imported** since no appropriate place in MEI-Basic has been found
 
-When importing an MEI file, the values in the MEI header (if found) as set back as score properties. The entire MEI header is also preserved. When exporting again to MEI, the original header is re-exported as such and the score properties are ignored. However, the original MEI header can be deleted from the score properties dialog.
+When importing an MEI file, the values in the MEI header (if found) are set back as score properties. The entire MEI header is also preserved. When exporting again to MEI, the original header is re-exported as such, and the score properties are ignored. However, the original MEI header can be deleted from the score properties dialog.
 
 ## Command-line
 
